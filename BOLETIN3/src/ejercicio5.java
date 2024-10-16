@@ -1,5 +1,12 @@
 import java.util.Scanner;
 
+/**
+ * Se introduciran y compararán 3 números, entre esos tres el programa empezará la comparación y mostrará
+ * por pantallo el número mayor
+ * @version 1.1
+ * @author SAUL ALVAREZ MONZON
+ */
+
 public class ejercicio5 {
     public static void encontrarMayor() {
 

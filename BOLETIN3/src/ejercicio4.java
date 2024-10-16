@@ -1,4 +1,11 @@
 import java.util.Scanner;
+
+/**
+ * Este Programa diferenciará el peso de dos personas y mostrará el nombre de la persona con más peso y su diferencia de peso
+ * con la otra persona a la que se comparó.
+ * @version 1.1
+ * @author SAUL ALVAREZ MONZON
+ */
 public class ejercicio4 {
     public static void compararPeso() {
 

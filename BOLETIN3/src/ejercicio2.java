@@ -1,4 +1,12 @@
 import java.util.Scanner;
+
+/**
+ * Éste programa pedirá dos números, si el primer número es mayor o igual al segundo número se realizará la resta entre el primer número y el segundo,
+ * de lo contrario, se realizará una suma.
+ * @version 1.1
+ * @author SAUL ALVAREZ MONZON
+ */
+
 class ejercicio2 {
     public static void restaOSuma() {
         Scanner sc = new Scanner(System.in);

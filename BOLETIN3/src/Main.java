@@ -1,3 +1,9 @@
+/**
+ * Cuando el fichero Main empiece a correr automaticamente ejecutará todos los ejercicicios/programas a los que está ligado
+ * @version 1.1
+ * @author SAUL ALVAREZ MONZON
+ */
+
 public class Main {
     public static void main(String[] args) {
 
